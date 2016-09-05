@@ -1,5 +1,7 @@
 .directory
 .minecraft
 .vscode
+__pycache__
+conf
 logs
 run.sh
